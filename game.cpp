@@ -14,7 +14,7 @@ Game::Game() {
 	players[3] = "Raina";
 	players[4] = "Dhoni";
 	players[5] = "KLRahul";
-	players[6] = "Jadeja";
+	players[6] = "KK";
 	players[7] = "Hardik";
 	players[8] = "Bumrah";
 	players[9] = "BKumar";
